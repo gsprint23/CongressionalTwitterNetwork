@@ -1,4 +1,5 @@
 # Congressional Twitter Network
+[![DOI](https://zenodo.org/badge/676752000.svg)](https://zenodo.org/badge/latestdoi/676752000)
 
 ## About the Repository
 This repository stores the accompanying code and data for the weighted, bidirectional graph (henceforth referred to as a "Twitter Influence Network" graph) presented in the research papers 1. Fink et. al "A centrality measure for quantifying spread on weighted, directed networks" Physica A, 2023 (DOI link: https://doi.org/10.1016/j.physa.2023.129083) and 2. Fink et. al "A Congressional Twitter network dataset quantifying pairwise probability of influence" Data in Brief (under review). This graph represents the how information flows in a network of US Congress members. Tweets from these members span the date range between February 9, 2022, and June 9, 2022. Information flow was modeled as "influence": every time Congressional members retweeted, quote-tweeted, replied to, or mentioned one another. 
